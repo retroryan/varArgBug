@@ -2,32 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e8d0daf-3274-4d19-820f-14ed38907029" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sample/VarArgBug.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/build.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/Barkeeper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/BusyFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/Drink.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/DrinkFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/Guest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/HakkyHour.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/HakkyHourApp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/typesafe/training/hakkyhour/Waiter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/typesafe/training/hakkyhour/BarkeeperTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/typesafe/training/hakkyhour/GuestTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/typesafe/training/hakkyhour/HackyHourTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/verify.sh" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.conf" afterPath="$PROJECT_DIR$/src/main/resources/application.conf" />
     </list>
     <ignored path="varArgBug.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1e8d0daf-3274-4d19-820f-14ed38907029" time="1371785132092" ignored="false" />
     <file path="/.gitignore" changelist="1e8d0daf-3274-4d19-820f-14ed38907029" time="1371785155957" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="1e8d0daf-3274-4d19-820f-14ed38907029" time="1371785232292" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="1e8d0daf-3274-4d19-820f-14ed38907029" time="1371785804672" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="1e8d0daf-3274-4d19-820f-14ed38907029" time="1371785944826" ignored="false" />
     <file path="/VarArgBug.java" changelist="1e8d0daf-3274-4d19-820f-14ed38907029" time="1371785804203" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,48 +71,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="application.conf" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="38" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="303" selection-end="309" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VarArgBug.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/VarArgBug.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="43" selection-start="775" selection-end="775" vertical-scroll-proportion="0.4979253">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Props.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.10/2.2.0-RC1/akka-actor_2.10-2.2.0-RC1.jar!/akka/actor/Props.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="23" selection-start="3764" selection-end="3764" vertical-scroll-proportion="-22.4">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="varargs.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.1/scala-library-2.10.1.jar!/scala/annotation/varargs.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="44" selection-end="44" vertical-scroll-proportion="-0.6">
+            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.020746889">
               <folding />
             </state>
           </provider>
@@ -156,6 +100,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/sample/VarArgBug.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
       </list>
     </option>
   </component>
@@ -515,24 +460,41 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.10/2.2.0-RC1/akka-actor_2.10-2.2.0-RC1.jar!/akka/actor/Props.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="23" selection-start="3764" selection-end="3764" vertical-scroll-proportion="-22.4">
+        <state line="45" column="23" selection-start="3764" selection-end="3764" vertical-scroll-proportion="0.81751823">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.1/scala-library-2.10.1.jar!/scala/annotation/varargs.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="44" selection-end="44" vertical-scroll-proportion="-0.6">
+        <state line="1" column="19" selection-start="44" selection-end="44" vertical-scroll-proportion="0.021489972">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/VarArgBug.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="43" selection-start="775" selection-end="775" vertical-scroll-proportion="0.4979253">
+        <state line="24" column="43" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/LICENSE-2.0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.020746889">
+          <folding />
         </state>
       </provider>
     </entry>
