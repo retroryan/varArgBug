@@ -1,0 +1,27 @@
+#maven
+target/
+
+# sbt
+boot/
+lib_managed/
+target/
+.history
+
+# Eclipse
+.cache
+.classpath
+.project
+.scala_dependencies
+.settings
+.target/
+.worksheet/
+eclipse.sbt
+
+# Include IntelliJ Files to demonstrate bug
+out/
+
+# TextMate
+*.tmproj
+
+# Mac
+.DS_Store
